@@ -17,7 +17,7 @@ const project = [
         "description": "This is the first project.",
         "imageSrc": image,
         "skills": ["React", "CSS", "JavaScript"],
-        "demo": "https://my-portfolio-ruddy-nu-52.vercel.app/",
+        "demo": "https://my-portfolio-ruddy-nu-52.vercel.app",
         "source": "https://github.com/bhagya183/MyPortfolio"
     },
 
